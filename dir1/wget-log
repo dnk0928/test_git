@@ -1,0 +1,6 @@
+--2023-07-30 18:50:26--  https://storage.yandexcloud.net/dnk0928/102_1.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving storage.yandexcloud.net (storage.yandexcloud.net)... 213.180.193.243, 2a02:6b8::1d9
+Connecting to storage.yandexcloud.net (storage.yandexcloud.net)|213.180.193.243|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-07-30 18:50:26 ERROR 403: Forbidden.
+
